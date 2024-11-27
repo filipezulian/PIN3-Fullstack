@@ -1,0 +1,4 @@
+# Exclude files below:
+.env
+node_modules
+dist
